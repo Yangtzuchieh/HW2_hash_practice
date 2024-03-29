@@ -1,4 +1,5 @@
 
+#輸入檔案、紀錄名詞種類、紀錄各名詞出現次數
 def counter(file_name, word_count, word_list_and_counts):
     inputfile = open(file_name,'r')
     line = inputfile.readline()
