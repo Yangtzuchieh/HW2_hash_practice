@@ -13,4 +13,5 @@ Taco 57
 Pho 19
 Potato 3
 
-![image](https://github.com/Yangtzuchieh/HW2_hash_practice/assets/161815485/ec415d5f-cd8f-4a8b-b90c-90bbb180e2e3)
+![image](https://github.com/Yangtzuchieh/HW2_hash_practice/assets/161815485/d0b09f64-934b-46ff-ac13-db20c6f6e717)
+
