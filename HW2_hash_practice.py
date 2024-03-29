@@ -33,12 +33,11 @@ def main():
     my_dict = {}
     #紀錄不同字個數，預設為0
     word_count = 0
-    #讀檔案
+    #讀檔案並將結果紀錄在result裡
     result = counter('hw2_data.txt', word_count, my_dict)
     #印結果
     print_results(result[0], result[1])
     
 if __name__== main():
     main()
-    
     
